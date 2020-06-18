@@ -10,4 +10,5 @@ Conhecimentos aplicados:
 - NodeJs;
 - ReactJs;
 - React Native;
+- SQLite3;
 - Expo.
